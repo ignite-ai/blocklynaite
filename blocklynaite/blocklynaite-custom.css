@@ -1,0 +1,18 @@
+/* Bugfixing */
+.goog-palette-cell{
+  padding: 0;
+}
+/* Custom Styles */
+.blocklyTreeSelected {
+  background-color: #aaa !important;
+}
+.blocklyTreeRow:not(.blocklyTreeSelected):hover {
+  background-color: #ccc !important;
+}
+#clipboard{
+  height: 18em;
+  overflow-y: auto;
+}
+#ignaite-logo{
+  height: 60px;
+}
